@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "rag-github",
+  "name": "mcp-github-stars",
   "main": "src/index.js",
   "compatibility_flags": [
     "nodejs_compat"
